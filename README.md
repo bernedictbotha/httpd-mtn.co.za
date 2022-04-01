@@ -1,2 +1,2 @@
-# httpd-mtn.co.za
+# http://mtn.co.za
 Mtn webpage
